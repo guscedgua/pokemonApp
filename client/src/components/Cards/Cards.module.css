@@ -1,0 +1,12 @@
+.container {
+
+  background: rgb(227,40,40);
+background: linear-gradient(90deg, rgba(227,40,40,0.45702030812324934) 0%, rgba(255,8,8,0.9948354341736695) 100%, rgba(22,254,220,1) 100%);
+  display: inline-grid;
+  justify-content: space-around;
+  padding: 15px;
+  margin: 35px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}

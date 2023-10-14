@@ -1,0 +1,36 @@
+.container {
+  background-color: #ffffff;
+}
+
+.background {
+  background-color: #f2f2f2;
+  margin: 10px;
+}
+
+.nameStyle {
+  font-family: Unispace;
+  margin: 10px;
+}
+
+.nameStyle::first-letter {
+  text-transform: uppercase;
+}
+
+.typeStyle {
+  display: inline-block;
+  font-family: Louis George Cafe Light;
+  color: #f2f2f2;
+  background-color: #313131;
+  border-radius: 2.5px;
+  padding: 6.5px;
+  margin: 10px;
+  text-align: center;
+}
+.typeStyle::first-letter {
+  text-transform: uppercase;
+}
+
+.buttonStyle {
+  display: block;
+  margin: auto;
+}

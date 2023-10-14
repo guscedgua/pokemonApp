@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+  margin-right: 37.5px;
+}
+
+.pagination {
+  display: inline-block;
+  text-align: center;
+}
+
+.pagination a {
+  font-family: Louis George Cafe Light;
+  background-color: #313131;
+  color: #f2f2f2;
+  padding: 8px 16px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.pagination a.active {
+  background-color: #4caf50;
+  color: white;
+}
+
+.pagination a:hover:not(.active) {
+  background-color: #ddd;
+}

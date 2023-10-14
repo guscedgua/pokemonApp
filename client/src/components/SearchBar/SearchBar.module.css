@@ -1,0 +1,15 @@
+
+
+ input {
+  height: 28px;
+  margin-top: 20px;
+  padding: 10px;
+  margin-left: -15px;
+
+}
+
+.buttons{
+padding-top: 10px;
+padding-bottom: 10px;
+background-color: rgb(0, 174, 255);
+}

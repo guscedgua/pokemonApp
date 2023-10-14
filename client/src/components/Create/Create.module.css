@@ -1,0 +1,38 @@
+.background {
+  background-image: url(https://wallpaperaccess.com/full/461236.jpg);
+  height: 106vh;
+  width: 100vw;
+  text-align: center;
+}
+
+.card {
+  margin-top: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+  font-family: Louis George Cafe Light;
+  color: #f2f2f2;
+  background-color: #313131;
+  border-radius: 2.5px;
+  padding: 50px;
+}
+
+.display {
+  display: block;
+}
+.buttons {
+  font-family: Louis George Cafe Light;
+  color: #f2f2f2;
+  background-color: #313131;
+  border-radius: 2.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5px;
+  margin-top: 50px;
+  margin-left: 175px;
+}
+
+.margin {
+  margin-top: 50px;
+}
